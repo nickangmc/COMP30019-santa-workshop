@@ -8,7 +8,7 @@ He needs to first pick up the gift item from the item shelves; put it in boxes; 
 
 Not to mention a few more surprises in the game :open_mouth:. Just watch the trailer below!  
 
- ###### Youtube Trailer: [YouTube Trailer](https://youtu.be/ye6nr7gZGes)  
+ ###### Youtube Trailer: [Santa's Workshop](https://youtu.be/ye6nr7gZGes)  
 
 ![Start Screen](https://github.com/Shankskun/santa-workshop/blob/master/images/startscreen.png)  
 
