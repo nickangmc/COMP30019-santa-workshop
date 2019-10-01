@@ -21,7 +21,7 @@ Not to mention a few more surprises in the game :open_mouth:. Just watch the tra
 1. `p` cheat code to remove annoying snowmans.
 
 ### Rules
-1. Fill up and wrap as soon as you can, within 90 secs!
+1. Fill up the boxes and wrap them as fast as you can within 90 secs!
 1. Put candy cane FIRST into a box on the conveyor belt, before wrapping it with a ribbon.
 1. Things will speed up as the player progresses, so be careful.
 1. Snowmans will block you occasionally, give them whatever you have on your hand to satisfy them and they will go away!
