@@ -4,7 +4,7 @@ A 3D game created with the unity engine, inspired by "Overcooked". This game is 
 
 #### Game Storyline
 Once upon a time, there is an elf whose name is Elf 18, he lives in North Pole and he works for Santa! His job is to keep Santa happy by wrapping every gift on time before Christmas :open_mouth:!
-He needs to first pick up the gift item from the item shelves; put it in boxes; then wrap it before it reaches Santa's sleigh. However, :santa: would be Furious if he doesn't see the results.
+He needs to first pick up the gift item from the item shelves; put it in boxes; then wrap it before it reaches Santa's sleigh. However, :santa: would be Furious if he doesn't see the results he wanted.
 
 Not to mention a few more surprises in the game :open_mouth:. Just watch the trailer below!  
 
