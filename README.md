@@ -1,6 +1,6 @@
 # Santa's Workshop
 
-A 3D game created with the unity engine, inspired by "Overcooked". 
+A 3D game created with the unity engine, inspired by "Overcooked". This is the major 
 
 #### Game Storyline
 Once upon a time, there is an elf whose name is Elf 18, he lives in North Pole and he works for Santa! His job is to keep Santa happy by wrapping every gift on time before Christmas :open_mouth:!
@@ -37,6 +37,6 @@ Not to mention a few more surprises in the game :open_mouth:. Just watch the tra
 ### Creators 
 
 - [Nick Ang Mink Chen](https://github.com/nickangmc)
-- [Reyna Tan]
+- [Reyna Tan](https://github.com/reynat)
 - [Ze Shaun Soong](https://github.com/Shankskun)
 
